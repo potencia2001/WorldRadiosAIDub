@@ -219,3 +219,15 @@ Licensed under the Apache License, Version 2.0.
 The complete license text is distributed with this application in:
 
 app/src/main/assets/oboe-LICENSE.txt
+
+========================================================================
+
+
+Frame-VAD Multilingual MarbleNet v2.0
+
+Licensed by NVIDIA Corporation under the NVIDIA Open Model License.
+
+Upstream model:
+https://huggingface.co/nvidia/Frame_VAD_Multilingual_MarbleNet_v2.0
+
+The complete NVIDIA Open Model License Agreement is distributed with the model.
