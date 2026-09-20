@@ -1,2 +1,2 @@
-# WorldRadiosAIDub
-World Radios AI Dub Dubbing 
+# WRAD - WorldRadiosAIDub
+WRAD - World Radios AI Dub Dubbing 
